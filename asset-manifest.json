@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/figjamwork/taskTwoWebJSON/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/figjamwork/taskTwoWebJSON/static/js/main.bb4c380d.chunk.js",
+    "main.js.map": "/figjamwork/taskTwoWebJSON/static/js/main.bb4c380d.chunk.js.map",
+    "runtime-main.js": "/figjamwork/taskTwoWebJSON/static/js/runtime-main.1b7a2ae1.js",
+    "runtime-main.js.map": "/figjamwork/taskTwoWebJSON/static/js/runtime-main.1b7a2ae1.js.map",
+    "static/js/2.b069062e.chunk.js": "/figjamwork/taskTwoWebJSON/static/js/2.b069062e.chunk.js",
+    "static/js/2.b069062e.chunk.js.map": "/figjamwork/taskTwoWebJSON/static/js/2.b069062e.chunk.js.map",
+    "index.html": "/figjamwork/taskTwoWebJSON/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/figjamwork/taskTwoWebJSON/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b069062e.chunk.js.LICENSE.txt": "/figjamwork/taskTwoWebJSON/static/js/2.b069062e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b7a2ae1.js",
+    "static/js/2.b069062e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bb4c380d.chunk.js"
+  ]
+}
